@@ -21,6 +21,24 @@ Fornecer uma visão clara e estratégica da performance comercial, auxiliando a 
 
 ---
 
+## 🏗️ Arquitetura de Dados
+
+O fluxo de dados do projeto segue a seguinte estrutura:
+
+**Banco de Dados (SQL)**  
+⬇  
+Extração e tratamento dos dados via consultas SQL  
+⬇  
+Modelagem relacional no Power BI  
+⬇  
+Criação de métricas e KPIs com DAX  
+⬇  
+Visualização e análise estratégica no dashboard
+
+Os dados são provenientes de um banco relacional, onde foram realizadas consultas SQL para consolidação de vendas, clientes, produtos e estoque antes da modelagem analítica.
+
+---
+
 ## 📌 Principais Indicadores (KPIs)
 
 O dashboard destaca métricas importantes como:
@@ -51,7 +69,7 @@ Este dashboard permite identificar:
 ## 🛠️ Ferramentas e Tecnologias
 
 - **Power BI**
-- **SQL** para extração e tratamento dos dados  
+- **SQL** para extração e transformação dos dados  
 - Modelagem de dados e criação de KPIs com **DAX**
 - Análise de desempenho de negócios
 - Métricas voltadas para varejo/moda
@@ -65,3 +83,4 @@ Todos os dados apresentados neste projeto são **anonimizados e utilizados apena
 ---
 
 👩‍💻 Desenvolvido como parte de um portfólio de Business Intelligence com foco em análises comerciais, estoque e produção.
+
