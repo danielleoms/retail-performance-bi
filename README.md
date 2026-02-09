@@ -6,6 +6,9 @@ Dashboard de Business Intelligence desenvolvido para monitorar **desempenho de v
 
 ## 🖥️ Visualização do Dashboard
 
+🔗 **Acesse o dashboard interativo:**  
+### 🚀 [Abrir Dashboard Interativo](https://danielleoms.github.io/retail-performance-bi/)
+
 ![Dashboard de Performance Comercial](images/performance-comercial.png)
 
 ---
@@ -76,11 +79,10 @@ Este dashboard permite identificar:
 
 ---
 
-## 📎 Observações
+## 🔒 Proteção de Dados
 
 Todos os dados apresentados neste projeto são **anonimizados e utilizados apenas para fins demonstrativos**, seguindo boas práticas de proteção de dados.
 
 ---
 
 👩‍💻 Desenvolvido como parte de um portfólio de Business Intelligence com foco em análises comerciais, estoque e produção.
-
